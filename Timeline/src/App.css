@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header{
+  text-align: center;
+}
+
+.log-container{
+  display: flex;
+  gap: 20px; 
+  padding: 20px;
+}
+
+.log-card{
+  border: 1px solid #ccc;
+  padding: 15px;
+  width: 250px;
+  border-radius: 8px;
+}
